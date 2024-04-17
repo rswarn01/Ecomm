@@ -1,7 +1,5 @@
 # Ecomm
 This E-commerce project aims to having basic ecom features like user authentication, product browsing, adding items to the cart, and completing purchases securely. Here's a brief overview of the key features:
-Developed for learning purpose.
-
 Django
 Python
 HTML
@@ -18,3 +16,4 @@ Cart Page: Add products to the cart for purchase, view the items currently in th
 Checkout Page: Proceed to checkout, enter shipping and billing information, and review the order summary before completing the purchase.
 
 Payment Checkout: Securely process payments using various payment methods, ensuring a smooth and hassle-free transaction experience.
+Developed for learning purpose.
